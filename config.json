@@ -1,0 +1,5 @@
+{
+"token" : "putYourBotTokenHere",
+"ping" : "pingChatRoomName",
+"pong" : "pongChatRoomName"
+}
